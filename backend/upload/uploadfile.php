@@ -1,15 +1,4 @@
-<?php
-//MYSQL USER AND PASSWORD
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "contenthub";
 
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-
-
-?>
 
 <form enctype="multipart/form-data"  action="?upload" method="POST">
 <input type="hidden" name="MAX_FILE_SIZE" value="30000" />

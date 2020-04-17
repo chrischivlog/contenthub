@@ -1,0 +1,11 @@
+FORMS:
+- textarea
+- textarea_description
+- password
+- password_check
+- name
+- file_pdf
+- file_image
+- select_private
+- select_public
+ 
