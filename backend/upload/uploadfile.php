@@ -1,4 +1,4 @@
-
+<?php include('../config.php');?>
 
 <form enctype="multipart/form-data"  action="?upload" method="POST">
 <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
