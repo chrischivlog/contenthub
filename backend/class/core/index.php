@@ -1,5 +1,7 @@
 <?php 
 
+/// USE THIS ONLY WITH PAGE SYSTEM
+
 ///CONFIGS
 include('./backend/class/core/smtp_config.php');
 include('./backend/class/core/config.php');
